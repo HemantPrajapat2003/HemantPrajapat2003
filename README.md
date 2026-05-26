@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Data Analyst**
 
-- 🌱 I’m currently learning **Prower Bi**
+- 🌱 I’m currently learning **AI Automation**
 
-- 👯 I’m looking to collaborate on **Data Analyst Project**
+- 👯 I’m looking to collaborate on **Data Analyst & Data Science Project**
 
 - 🤝 I’m looking for help with **Data Analysis**
 
